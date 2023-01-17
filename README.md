@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter Analysis
 Performing analysis on kickstarter to uncover trends
 
 # Kickstarting with Excel
